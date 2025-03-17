@@ -1,10 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35828.75 d17.13
+VisualStudioVersion = 17.13.35828.75
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaskElementsInView", "MaskElementsInView.csproj", "{ABB92DBE-F33D-45C9-8748-55168D840FE6}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Internal", "Internal", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Code Analysis", "Code Analysis", "{CB1F8B76-F824-4965-92DA-D793180BA778}"
@@ -14,16 +12,18 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Code Analysis", "Code Analy
 		Internal\Code Analysis\stylecop.json = Internal\Code Analysis\stylecop.json
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaskElementsInDansView", "MaskElementsInDansView\MaskElementsInDansView.csproj", "{8F72ABA6-12A1-5826-2A86-FE8E2488C9B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{ABB92DBE-F33D-45C9-8748-55168D840FE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{ABB92DBE-F33D-45C9-8748-55168D840FE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{ABB92DBE-F33D-45C9-8748-55168D840FE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{ABB92DBE-F33D-45C9-8748-55168D840FE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F72ABA6-12A1-5826-2A86-FE8E2488C9B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F72ABA6-12A1-5826-2A86-FE8E2488C9B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F72ABA6-12A1-5826-2A86-FE8E2488C9B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F72ABA6-12A1-5826-2A86-FE8E2488C9B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

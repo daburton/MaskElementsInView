@@ -1,0 +1,20 @@
+<DMSScript options="272" xmlns="http://www.skyline.be/automation">
+	<Name>MaskElementsInDansView</Name>
+	<Description />
+	<Type>Automation</Type>
+	<Author>danielbu</Author>
+	<CheckSets>FALSE</CheckSets>
+	<Folder>DanielB</Folder>
+	<Protocols>
+	</Protocols>
+	<Memory>
+	</Memory>
+	<Parameters>
+	</Parameters>
+	<Script>
+		<Exe id="2" type="csharp">
+			<Value><![CDATA[[Project:MaskElementsInDansView]]]></Value>
+			<Message />
+		</Exe>
+	</Script>
+</DMSScript>
