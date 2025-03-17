@@ -57,7 +57,7 @@ namespace MaskElementsInView
 
 			foreach (Element element in elements)
 			{
-				element.Mask("Test Script Masking", 10);
+				element.Mask("Test Script Masking", 5);
 			}
 		}
 	}
